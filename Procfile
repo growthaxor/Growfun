@@ -1,1 +1,1 @@
-eyzaits: node app.js
+eyzaits: node bot.js
